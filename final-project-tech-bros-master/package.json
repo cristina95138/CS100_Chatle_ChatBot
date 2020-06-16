@@ -1,0 +1,19 @@
+{
+  "name": "final-project-tech-bros",
+  "version": "1.0.0",
+  "description": "## Project Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs100/final-project-tech-bros.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs100/final-project-tech-bros/issues"
+  },
+  "homepage": "https://github.com/cs100/final-project-tech-bros#readme"
+}
